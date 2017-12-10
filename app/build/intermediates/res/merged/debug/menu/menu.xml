@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mid"
+        android:title="Type Of Wheat"
+        android:icon="@drawable/w"/>
+    <item
+        android:id="@+id/mid2"
+        android:title="controlling Arduino  "
+        android:icon="@drawable/we"/>
+
+</menu>

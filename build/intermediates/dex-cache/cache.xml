@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/design/27.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="031cc16b7b6e77b3c050134ecab9fa5c2640a069">
+        <dex dex="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-27.0.2_b991eb1a93814c8ad95afbf09b9d18736f686028/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_9acd00f8684b999f23bc1219658cc93a0b271f3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="6296f35f1ee52f68d38ec4f597e482fdad197bc7">
+        <dex dex="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3f50c4aa01e6ad70ed45cde9505cbf62b044afc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-27.0.2_5acb6ef21f5656bc84d3b6197d70c3c7582e21f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/27.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-27.0.2_fe67df3f0cabc5a9f0f6d5c9021e5d02d5702769/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.3_9fc00c5efac20f053af910e04493d5ad99535492/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/support-fragment/27.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-27.0.2_3b1fc5bc7a7e63c46d8684ea48bba401b3591192/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/support-v4/27.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-27.0.2_3b1886e84f8ce5462d8a85d53062c87a0e063860/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-27.0.2_822f8164f18e071258540468ba25f1a989485ea1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/27.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-27.0.2_41cd52e6090eb283c11103d6b7aff6f95ca9241d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="421fc08235dfdd2a2170596887dc2fa7d4a3da20">
+        <dex dex="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c252ccf902afb0e5574b985bdb61420be72e52c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/27.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="9296d6f092fcdba4fafb6ac26546a39babdab46a">
+        <dex dex="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-27.0.2_8bfe094f01712800554ff0862369f9900b2f27ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/transforms/dex/debug/folders/1000/10/android.arch.lifecycle-runtime-1.0.3_26b2d9f967cc96ccc2af964ec1b390fcfeb374f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-27.0.2_e6f9b6f4cd79cd9562732e20187eecf6c4e6cc03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-27.0.2_98df2a459756f9fcbf50a54ea1882abdb73ccbf5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/27.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-27.0.2_9da458a822c981783f1f90e99dd66b78f36df76b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/transition/27.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="a5fa2e3704f51b30b7b47e12a3a2909728799583">
+        <dex dex="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-27.0.2_ed47792723ad2bfe2cbf2f35fef06bbaf693e030/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/27.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-27.0.2_e7cf24d88672cd5b0deac80a22e40a16f7c2fd5e/classes.dex" />
+    </item>
+
+</items>

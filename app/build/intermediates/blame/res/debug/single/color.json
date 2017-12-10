@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/design/27.0.2/res/color/design_error.xml"
+    },
+    {
+        "merged": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/design/27.0.2/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_hint_foreground_material_dark.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Sun Dec 10 11:55:12 EET 2017
+base.0=/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3f50c4aa01e6ad70ed45cde9505cbf62b044afc6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c252ccf902afb0e5574b985bdb61420be72e52c9/classes.dex
+base.1=/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c252ccf902afb0e5574b985bdb61420be72e52c9
+file.0=/media/nasrallah/main1/FCI/Study folder/Steam/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3f50c4aa01e6ad70ed45cde9505cbf62b044afc6/classes.dex
